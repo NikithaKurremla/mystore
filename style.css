@@ -6,7 +6,7 @@
   }
   .header {
       padding: 10px;
-      background-color:black;
+      background-color:pink;
       display: flex;
       justify-content: space-between;
   }
