@@ -6,25 +6,27 @@
   }
   .header {
       padding: 10px;
-      background-color:pink;
+      background-color:#FCFFC1;
       display: flex;
       justify-content: space-between;
   }
   .productBlock{
-      background-color: silver;
+      background-color: #FFE893;
   }
   .row {
+    
       display: flex;
+      flex-wrap:wrap;
       justify-content: center;
   }
   .box {
-      background-color: white;
+      background-color: #FBB4A5;
       margin: 10px;
       border-radius: 20px;
       padding: 10px;
   }
   .cartBlock {
-      background-color: silver;
+      background-color: #33186B;
       width: 300px;
       position: fixed;
       top:0px;
@@ -33,3 +35,38 @@
       padding: 20px;
       transition: 2s;
   }
+  .login{
+    width: 250px;
+    height: 250px;
+    border:2px solid black;
+    background-color:white;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 50px;
+    background-color: #A3D1C6;
+    /* margin-left: 40.625rem; */
+
+    margin: auto;
+  }
+  .login input,button{
+    margin: 8px;
+  }
+  .registration{
+    width: 250px;
+    height: 250px;
+    border:2px solid black;
+    background-color:white;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 50px;
+    /* margin-left: 40.625rem; */
+
+    margin: auto;
+  }
+  .registration input,button{
+    margin: 8px;
+  }
+  .menu li {
+    display: inline-block;
+    padding: 5px;
+}
