@@ -6,12 +6,15 @@
   }
   .header {
       padding: 10px;
-      background-color:#FCFFC1;
+      background-color:#e71829;
+      color: white;
       display: flex;
       justify-content: space-between;
   }
   .productBlock{
-      background-color: #FFE893;
+     height: 1000px;
+     overflow: auto;
+      background-color: white;
   }
   .row {
     
@@ -20,7 +23,7 @@
       justify-content: center;
   }
   .box {
-      background-color: #FBB4A5;
+      background-color:rgb(11, 222, 249);
       margin: 10px;
       border-radius: 20px;
       padding: 10px;

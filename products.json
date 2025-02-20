@@ -3,7 +3,8 @@
       "id": 1,
       "name": "Product 1",
       "desc": "Description of the product. Description of the product. ",
-      "price": 25
+      "url":"C://Users//RACHANA//OneDrive//Desktop//mystore//asset//image.png",
+      "price": 25 
     },
     {
       "id": 2,
