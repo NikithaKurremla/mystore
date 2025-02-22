@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Samosa",
-      "desc": "Description of the product. Description of the product. ",
+      "desc": "They feature a pastry-like crust but are filled with savoury and spiced potato and green peas for a hearty,delicious snack.",
       "url":"asset/samosa.png",
       "price": 25 
     },
