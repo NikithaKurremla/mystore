@@ -23,7 +23,7 @@ const showTotal = () => {
     return sum + value.price * (cart[value.id] ? cart[value.id] : 0);
   }, 0);
 
-  divTotal.innerHTML = `Order Value: $${total}`;
+  divTotal.innerHTML = `<h1>Order Value:</h1> $${total}`;
 };
 
 const showOrders = () => {
