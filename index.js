@@ -184,7 +184,7 @@ const showProducts = () => {
       products.map((value) => {
         str += `
           <div class='box'>
-           <img src=${value.url}>
+           <img src="${value.url}" alt="${value.name}">
           <h3>${value.name}</h3>
           <p>${value.desc}</p>
           <h4>$${value.price}</h4>
