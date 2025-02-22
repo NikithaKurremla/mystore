@@ -1,63 +1,63 @@
 [
     {
       "id": 1,
-      "name": "Product 1",
+      "name": "Samosa",
       "desc": "Description of the product. Description of the product. ",
       "url":"/asset/samosa.png",
       "price": 25 
     },
     {
       "id": 2,
-      "name": "Product 2",
+      "name": "Pizza",
       "desc": "Description of the product. Description of the product. ",
       "url":"/asset/pizza.png",
       "price": 45
     },
     {
       "id": 3,
-      "name": "Product 3",
+      "name": "Mango Juice",
       "desc": "Description of the product. Description of the product. ",
       "url":"/asset/mangoJuice.png",
       "price": 30
     },
     {
         "id": 4,
-        "name": "Product 4",
+        "name": "FrenchFries",
         "desc": "Description of the product. Description of the product. ",
         "url":"/asset/FrenchFries.png",
         "price": 60
       },
       {
         "id": 5,
-        "name": "Product 5",
+        "name": "Cupcake",
         "desc": "Description of the product. Description of the product. ",
         "url":"/asset/cupcake.png",
         "price": 30
       },
       {
         "id": 6,
-        "name": "Product 6",
+        "name": "Burger",
         "desc": "Description of the product. Description of the product. ",
         "url":"/asset/burger.png",
         "price": 45
       },
       {
         "id": 7,
-        "name": "Product 7",
+        "name": "Chocolate",
         "desc": "Description of the product. Description of the product. ",
         "url":"/asset/chocolate.png",
         "price": 30
       },
       {
         "id": 8,
-        "name": "Product 8",
+        "name": "Chocolate2",
         "desc": "Description of the product. Description of the product. ",
         "url":"/asset/chocolate2.png",
         "price": 30
       },
       {
         "id": 9,
-        "name": "Product 9",
+        "name": "Dessert",
         "desc": "Description of the product. Description of the product. ",
         "url":"/asset/Dessert.png",
         "price": 30
