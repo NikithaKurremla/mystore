@@ -17,7 +17,7 @@
       "id": 3,
       "name": "Mango Juice",
       "desc": "Description of the product. Description of the product. ",
-      "url":"/asset/mangoJuice.jpg",
+      "url":"/asset/mangoJuice.png",
       "price": 30
     },
     {
@@ -38,7 +38,7 @@
         "id": 6,
         "name": "Burger",
         "desc": "Description of the product. Description of the product. ",
-        "url":"/asset/burger.png",
+        "url":"/asset/burger.jpg",
         "price": 45
       },
       {
