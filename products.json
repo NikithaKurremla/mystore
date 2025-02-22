@@ -59,7 +59,7 @@
         "id": 9,
         "name": "Product 9",
         "desc": "Description of the product. Description of the product. ",
-        "url":"http:/asset/Dessert.png",
+        "url":"/asset/Dessert.png",
         "price": 30
       }
   ]
