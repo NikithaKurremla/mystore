@@ -2,63 +2,63 @@
     {
       "id": 1,
       "name": "Samosa",
-      "desc": "They feature a pastry-like crust but are filled with savoury and spiced potato and green peas for a hearty,delicious snack.",
+      "desc": "They feature a pastry-like crust but are filled with savoury <br>and spiced potato and green peas for a hearty,delicious snack.",
       "url":"asset/samosa.png",
       "price": 25 
     },
     {
       "id": 2,
       "name": "Pizza",
-      "desc": "Description of the product. Description of the product. ",
+      "desc": "Pizza is a combination of baked dough, mozzarella cheese, <br>and tomato sauce. ",
       "url":"asset/pizza.png",
       "price": 45
     },
     {
       "id": 3,
       "name": "Mango Juice",
-      "desc": "Description of the product. Description of the product. ",
+      "desc": "Fresh mango juice is super refreshing, sweet, slightly tangy,<br> tropical, and thicker than most juices ",
       "url":"asset/mangoJuice.png",
       "price": 30
     },
     {
         "id": 4,
         "name": "FrenchFries",
-        "desc": "Description of the product. Description of the product. ",
+        "desc": "French fries are a popular snack or side dish made from potatoes<br> that are deep-fried until crispy.",
         "url":"asset/FrenchFries.png",
         "price": 60
       },
       {
         "id": 5,
         "name": "Cupcake",
-        "desc": "Description of the product. Description of the product. ",
+        "desc": "A cupcake is a small, sweet cake that is baked in a paper or <br>aluminum cup and often topped with frosting and<br> other decorations.",
         "url":"asset/cupcake.png",
         "price": 30
       },
       {
         "id": 6,
         "name": "Burger",
-        "desc": "Description of the product. Description of the product. ",
+        "desc": "A burger is a patty of ground meat cooked on a grill and placed <br>between two buns ",
         "url":"asset/burger.jpg",
         "price": 45
       },
       {
         "id": 7,
         "name": "Chocolate",
-        "desc": "Description of the product. Description of the product. ",
+        "desc": "Chocolate is a food made from roasted cacao beans that <br>can be eaten as candy, used in drinks, or added to baked goods.  ",
         "url":"asset/chocolate.png",
         "price": 30
       },
       {
         "id": 8,
-        "name": "Chocolate2",
-        "desc": "Description of the product. Description of the product. ",
+        "name": "Kunafa",
+        "desc": "Chocolate kunafa is a chocolate bar that combines chocolate <br>with a pistachio filling and crunchy kunafa ",
         "url":"asset/chocolate2.png",
         "price": 30
       },
       {
         "id": 9,
-        "name": "Dessert",
-        "desc": "Description of the product. Description of the product. ",
+        "name": "Chocolate Mousse",
+        "desc": "Chocolate mousse is a rich and creamy dessert with a <br>light and airy texture ",
         "url":"asset/Dessert.png",
         "price": 30
       }

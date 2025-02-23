@@ -120,10 +120,12 @@ function showLogin() {
   <div class='login'>
       <h2>Login Form</h2>
       <div id='msg'></div>
-      <p><input id="email" type="text"></p>
-      <p><input id="password" type="password"></p>
-      <button onclick='chkUser()'>Log In</button>
-      <p><button onclick='showForm()'>Create Account</button></p>
+      <h3>Email:<h3>
+      <p><input id="email" type="text" placeholder="Enter your Email"></p>
+      <h3>Password:<h3>
+      <p><input id="password" type="password" placeholder="Enter your password"></p>
+      <button  id="btn1" onclick='chkUser()'>Log In</button>
+      <p><button  id="btn2" onclick='showForm()'>Create Account</button></p>
   </div>
   `;
   root.innerHTML = str;
